@@ -1,0 +1,199 @@
+{
+  "places": [
+    {
+      "name": "De Hair Barbering Shop",
+      "lat": "",
+      "lng": "",
+      "city": "Accra",
+      "town": "Spintex",
+      "phone": "",
+      "category": "Barbering",
+      "image": [
+        "/assets/img/barber-0.jpg",
+        "/assets/img/barber-0.jpg",
+        "/assets/img/barber-0.jpg"
+      ],
+      "services": [
+        {
+          "name": "",
+          "type": "",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "name": "Mac Lorris Spa & Hotel",
+      "lat": "",
+      "lng": "",
+      "city": "Accra",
+      "town": "East Legon",
+      "phone": "",
+      "category": "Hotel",
+      "image": [
+        "/assets/img/hotel-0.jpg",
+        "/assets/img/hotel-0.jpg",
+        "/assets/img/hotel-0.jpg"
+      ],
+      "services": [
+        {
+          "name": "",
+          "type": "",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "name": "Hester Salon",
+      "lat": "",
+      "lng": "",
+      "city": "Accra",
+      "town": "Osu",
+      "phone": "",
+      "category": "Salon",
+      "image": [
+        "/assets/img/salon-0.jpg",
+        "/assets/img/salon-0.jpg",
+        "/assets/img/salon-0.jpg"
+      ],
+      "services": [
+        {
+          "name": "",
+          "type": "",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "name": "George Hill Reservations",
+      "lat": "",
+      "lng": "",
+      "city": "Accra",
+      "town": "Ridge",
+      "phone": "",
+      "category": "Hotel",
+      "image": [
+        "/assets/img/hotel-5.jpg",
+        "/assets/img/hotel-5.jpg",
+        "/assets/img/hotel-5.jpg"
+      ],
+      "services": [
+        {
+          "name": "",
+          "type": "",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "name": "Salon de Clases",
+      "lat": "",
+      "lng": "",
+      "city": "Accra",
+      "town": "Ridge",
+      "phone": "",
+      "category": "Salon",
+      "image": [
+        "/assets/img/salon-2.jpg",
+        "/assets/img/salon-2.jpg",
+        "/assets/img/salon-2.jpg"
+      ],
+      "services": [
+        {
+          "name": "",
+          "type": "",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "name": "Oriel Laundry",
+      "lat": "",
+      "lng": "",
+      "city": "Accra",
+      "town": "Ridge",
+      "phone": "",
+      "category": "Laundry",
+      "image": [
+        "/assets/img/laundry-0.jpg",
+        "/assets/img/laundry-0.jpg",
+        "/assets/img/laundry-0.jpg"
+      ],
+      "services": [
+        {
+          "name": "",
+          "type": "",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "name": "Celebrity Barbering Shop",
+      "lat": "",
+      "lng": "",
+      "city": "Accra",
+      "town": "Spintex",
+      "phone": "",
+      "category": "Barber",
+      "image": [
+        "/assets/img/barber-3.jpg",
+        "/assets/img/barber-3.jpg",
+        "/assets/img/barber-3.jpg"
+      ],
+      "services": [
+        {
+          "name": "",
+          "type": "",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "name": "Gorgeouse Hair Salon",
+      "lat": "",
+      "lng": "",
+      "city": "Accra",
+      "town": "Spintex",
+      "phone": "",
+      "category": "Salon",
+      "image": [
+        "/assets/img/salon-1.jpg",
+        "/assets/img/salon-1.jpg",
+        "/assets/img/salon-1.jpg"
+      ],
+      "services": [
+        {
+          "name": "",
+          "type": "",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "name": "Continental Barering",
+      "lat": "",
+      "lng": "",
+      "city": "Accra",
+      "town": "Madina",
+      "phone": "",
+      "category": "Barber",
+      "image": [
+        "/assets/img/barber-2.jpg",
+        "/assets/img/barber-2.jpg",
+        "/assets/img/barber-2.jpg"
+      ],
+      "services": [
+        {
+          "name": "",
+          "type": "",
+          "price": 0
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "",
+      "sub": [{ "name": "" }]
+    }
+  ]
+}
