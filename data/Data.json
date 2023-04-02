@@ -195,5 +195,55 @@
       "name": "",
       "sub": [{ "name": "" }]
     }
+  ],
+  "reviews": [
+    {
+      "name": "Kweku Dan",
+      "title": "The best booking system",
+      "comment": "Great experience, easy to book. Paying for treatments is so convenient — no cash or cards needed!",
+      "review": 5,
+      "location": "Spintex Rd., Accra",
+      "image": ""
+    },
+    {
+      "name": "Yaa Serwah",
+      "title": "Easy to use & explore",
+      "comment": "Bloomer's reminders make life so much easier. I also found a few good barbershops that I didn’t know existed.",
+      "review": 5,
+      "location": "Ridge Hospital, Accra",
+      "image": ""
+    },
+    {
+      "name": "Kobby Sam",
+      "title": "Great for finding barbers",
+      "comment": "I've been using Fresha for two years and it's by far the best booking platform I've used. Highly recommend it!",
+      "review": 5,
+      "location": "Osu, Accra",
+      "image": ""
+    },
+    {
+      "name": "Maama Esi Kwakye",
+      "title": "My go-to for self-care",
+      "comment": "Fresha is my go-to app for massages and facials. I can easily find and book places near me — I love it!",
+      "review": 5,
+      "location": "Adisadel, Cape Coast",
+      "image": ""
+    },
+    {
+      "name": "Akosua Gyan",
+      "title": "Great way to discover new salons",
+      "comment": "Recently moved to a new city and didn't know any salons. Fresha gave me a whole new list to choose from!",
+      "review": 5,
+      "location": "Bantama, Kumasi",
+      "image": ""
+    },
+    {
+      "name": "Abena Gunney",
+      "title": "Sleek app",
+      "comment": "Such a sleek and powerful app. I highly recommend booking your appointments on Fresha.",
+      "review": 5,
+      "location": "Efie Kuma, Takoradi",
+      "image": ""
+    }
   ]
 }

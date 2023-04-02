@@ -35,7 +35,7 @@ export default function Searchbar() {
 
   return (
     <div className="my-4">
-      <div className="flex xl:justify-center lg:justify-center md:justify-center justify-evenly xl:h-14 lg:h-14 md:h-10 h-40 bg-white xl:rounded-full lg:rounded-full md:rounded-full py-1 px-4 mt-8 items-center lg:flex-row xl:flex-row md:flex-row flex-col w-full">
+      <div className="flex xl:justify-center lg:justify-center md:justify-center justify-evenly border-2 border-solid border-gray-100 xl:h-14 lg:h-14 md:h-10 h-40 bg-white xl:rounded-full lg:rounded-full md:rounded-full py-1 px-4 mt-8 items-center lg:flex-row xl:flex-row md:flex-row flex-col w-full">
         <div className="xl:h-full lg:h-full md:h-10 h-10 flex xl:w-[50%] lg:w-[50%] md:w-[50%] w-full">
           <SearchOutlined />
           <input
@@ -72,7 +72,8 @@ export default function Searchbar() {
           </datalist>
         </div>
 
-        <Button size="large"
+        <Button
+          size="large"
           type="primary"
           className="rounded-full hover:bg-black bg-black xl:w-auto lg:w-auto md:w-auto w-full"
         >

@@ -111,8 +111,6 @@ a {
     color-scheme: dark;
   }
 }
-/* apply this to the container you want to animate */
-/* background-image: linear-gradient(to top, #96fbc4 0%, #f9f586 100%); */
 
 #bg_linear {
   background: linear-gradient(
@@ -120,12 +118,11 @@ a {
     #fff,
     #fed6e3,
     #e6dee9,
-    /* #f9f586, */
-    /* #96fbc4, */
+    /* #f9f586, */ #96fbc4,
     #fdfbfb,
-      #fff,
+    #fff,
     #fdcbf1,
-      #fff,
+    #fff,
     #ebedee
   );
   background-size: 400% 400%;
@@ -146,11 +143,11 @@ a {
 
 /* For Webkit-based browsers (Chrome, Safari and Opera) */
 .scrollbar-hide::-webkit-scrollbar {
-    display: none;
+  display: none;
 }
 
 /* For IE, Edge and Firefox */
 .scrollbar-hide {
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
 }
